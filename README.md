@@ -1,5 +1,3 @@
-<h1>Road Trip Cost Estimator</h1>
-
 <h2>Project Objectives:</h2>
 <ul>
 <li>Write a program that produces a road trip cost estimator with a GUI interface.</li>
