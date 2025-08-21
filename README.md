@@ -69,8 +69,8 @@
 	</ul>
  <li>Add calculations to get total trip cost </li>
  		<ul><li>gasoline cost = 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑔𝑎𝑠 𝑚𝑖𝑙𝑎𝑔𝑒 –  gasoline cost total trip cost = gasoline cost + (hotel cost + food cost)  number of days + attractions</li></ul>
-	<img src="./Screen Shot 2025-08-21 at 1.34.17 PM.png" height="500">
+	
  </ol>
 
 	
-
+<img src="Screen Shot 2025-08-21 at 1.34.17 PM.png" height="500">
